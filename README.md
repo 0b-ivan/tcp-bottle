@@ -1,6 +1,8 @@
 tcp-bottle
 ==========
 
+Fork from: [TCP-bottle](https://github.com/amintos/tcp-bottle)
+
 Simple tcpdump web interface for traffic monitoring.
 
 Runs out of the box:
@@ -13,7 +15,7 @@ Then point your browser at ```http://localhost:8002``` or whatever host you star
 Dependencies
 ------------
 
-Python 2.7 with
+Python 3.8 with
 * bottle.py >= 0.11
 * apscheduler
 
